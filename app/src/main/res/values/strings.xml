@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="name">Name</string>
+    <string name="course">Course</string>
+    <string name="contactNo">Contact No</string>
+    <string name="email">Email</string>
+    <string name="save">SAVE</string>
+</resources>
